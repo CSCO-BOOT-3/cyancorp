@@ -2,8 +2,9 @@
 [![Stories in Ready](https://badge.waffle.io/CSCO-DevOps-Bootcamp/ReferenceRepo.png?label=ready&title=Stories%20Ready)](https://waffle.io/CSCO-DevOps-Bootcamp/ReferenceRepo)
 
 
-## Devops@Cisco 2015 Reference Repo
+## Devops@Cisco 2015 Reference Repo:wq
 
+## Added Comment - kshah
 This repo is intended to serve as a reference for the 2015 workshop.
 There are several team repos that are forks of this repo.
 This repo contains solutions and helper files for the several phases throughout the day.
