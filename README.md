@@ -12,6 +12,6 @@ This repo contains solutions and helper files for the several phases throughout 
 The repo contains several branches that will serve as milestones for the fictional product.
 Teams can catch up by rebasing the solution branches on their own repos in the event they fall behind.
 
-Additoinally there are several datafeed branches that contain datasources for the fictional application.
+Additionally there are several datafeed branches that contain datasources for the fictional application.
 The datafeeds branch will be reset throughout the day to various milestone branches to emulate a changing data feed.
 
